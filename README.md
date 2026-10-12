@@ -1,18 +1,25 @@
 # NEUROALLIANCE 2026
 
-[**Biopsychosocial and Epigenetic Markers of Heat-Stress and Posttraumatic Outcomes in Emergency Responders**](https://paulyrp.github.io/neuroalliance26/)
+## **Biopsychosocial and Epigenetic Markers of Heat-Stress and Posttraumatic Outcomes in Emergency Responders**
 
-Paul Ruiz Pintoᵃᵇ*, Mackenzie Rubensᵃᵇ, Dagmar Bruenigᵃᵇ, Jane Shakespeare-Finchᶜ,
-Caroline Nievergeltᵈᵉᶠ, Marcus Isingᵍ, Divya Mehtaᵃᵇ     *Presenter
 
-ᵃ Centre for Genomics and Personalised Health, Faculty of Health, Queensland University of Technology, Brisbane, Australia
-ᵇ School of Biomedical Sciences, Faculty of Health, Queensland University of Technology, Brisbane, Australia
-ᶜ School of Psychology and Counselling, Faculty of Health, Queensland University of Technology, Brisbane, Australia
-
-ᵈ Department of Psychiatry, University of California San Diego, La Jolla, USA
-ᵉ VA San Diego Health Care System, San Diego, USA
-ᶠ VA Center of Excellence for Stress and Mental Health, VA San Diego Health Care System, San Diego, USA
+<sub>
+<strong>Paul Ruiz Pintoᵃᵇ⁎</strong>, Mackenzie Rubensᵃᵇ, Dagmar Bruenigᵃᵇ, Jane Shakespeare-Finchᶜ, Caroline Nievergeltᵈᵉᶠ, Marcus Isingᵍ, Divya Mehtaᵃᵇ
+<br>
+⁎ Presenter
+<br><br>
+ᵃ Centre for Genomics and Personalised Health, Faculty of Health, Queensland University of Technology, Brisbane, Australia<br>
+ᵇ School of Biomedical Sciences, Faculty of Health, Queensland University of Technology, Brisbane, Australia<br>
+ᶜ School of Psychology and Counselling, Faculty of Health, Queensland University of Technology, Brisbane, Australia<br>
+ᵈ Department of Psychiatry, University of California San Diego, La Jolla, USA<br>
+ᵉ VA San Diego Health Care System, San Diego, USA<br>
+ᶠ VA Center of Excellence for Stress and Mental Health, VA San Diego Health Care System, San Diego, USA<br>
 ᵍ Max Planck Institute of Psychiatry, Munich, Germany
+</sub>
+
+---
+
+[View Poster](https://paulyrp.github.io/neuroalliance26/)
 
 **Background:** Emergency responders show variable post-traumatic outcomes arising from interactions between psychosocial exposures and environmentally responsive DNA methylation. Occupational heat stress may amplify trauma-related changes in stress-response pathways, long-term epigenetic regulation and mental health.
 
