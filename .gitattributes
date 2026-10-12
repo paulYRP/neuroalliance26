@@ -1,0 +1,6 @@
+*.pdf binary
+*.png binary
+*.ai binary
+*.html text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
