@@ -1,6 +1,6 @@
 # NEUROALLIANCE 2026
 
-## **Biopsychosocial and Epigenetic Markers of Heat-Stress and Post-traumatic Outcomes in Emergency Responders**
+## **Tracking biological ageing to support healthier careers in emergency services**
 
 <sub>
 <strong>Paul Ruiz Pintoᵃᵇ⁎</strong>, Mackenzie Rubensᵃᵇ, Dagmar Bruenigᵃᵇ, Jane Shakespeare-Finchᶜ, Caroline Nievergeltᵈᵉᶠ, Marcus Isingᵍ, Divya Mehtaᵃᵇ
